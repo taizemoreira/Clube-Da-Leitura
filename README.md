@@ -4,7 +4,7 @@ Gustavo tem uma coleção grande de revistas em quadrinhos.
 Por isso, resolveu emprestar para os amigos. 
 Assim foi criado o Clube da Leitura.
 Mas para não perder nenhuma revista, seu pai contratou os alunos da Academia do
-Programador 2022 para fazer uma aplicação que cadastra as revistas e controla o
+Programador 2023 para fazer uma aplicação que cadastra as revistas e controla o
 empréstimo.
 
 Para cada Revista, deverá ser cadastrado:
