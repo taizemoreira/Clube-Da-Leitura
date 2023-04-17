@@ -1,0 +1,15 @@
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.exe
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.deps.json
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.runtimeconfig.json
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.dll
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.pdb
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.csproj.AssemblyReference.cache
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.AssemblyInfoInputs.cache
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.AssemblyInfo.cs
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.csproj.CoreCompileInputs.cache
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.dll
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\refint\ClubeDaLeitura.dll
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.pdb
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.genruntimeconfig.cache
+C:\Users\taize\OneDrive\Documentos\ACADEMIA_DO_PROGRAMADOR\ProjetoClubeDaLeitura\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\net6.0\ref\ClubeDaLeitura.dll
